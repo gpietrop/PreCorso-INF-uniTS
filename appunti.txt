@@ -1,0 +1,11 @@
+Oggi abbiamo studiato i comandi della shell
+Domani faremo esercizi con vim e con la redirezione
+La shell permette di navigare nel filesystem
+Gli studenti di Trieste usano spesso Linux
+La riga di comando è molto potente
+Imparare grep è fondamentale per cercare nel testo
+Sort serve a ordinare le righe in vari modi
+Con wc possiamo contare righe parole e caratteri
+Cut permette di estrarre colonne di testo separato
+I file possono essere cancellati con rm
+La copia si fa con cp mentre lo spostamento con mv

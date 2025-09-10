@@ -1,0 +1,15 @@
+Mario,Rossi,25,Via Roma,Trieste,34100
+Anna,Bianchi,30,Corso Italia,Udine,33100
+Luca,Verdi,22,Piazza Unità,Trieste,34121
+Giulia,Neri,28,Via Carducci,Milano,20123
+Paolo,Ferrari,35,Via Milano,Torino,10121
+Andrea,Gallo,40,Corso Francia,Torino,10138
+Chiara,Esposito,27,Via Manzoni,Napoli,80123
+Francesco,Conti,19,Via Mazzini,Bologna,40121
+Elena,Marini,33,Corso Vittorio,Genova,16121
+Davide,De Luca,45,Viale Libertà,Palermo,90133
+Simona,Romano,29,Via Dante,Firenze,50123
+Alessio,Greco,31,Via Garibaldi,Bari,70121
+Marta,Moretti,26,Via Po,Pisa,56121
+Stefano,Colombo,38,Via Verdi,Bergamo,24121
+Ilaria,Fontana,24,Via Leopardi,Perugia,06121
